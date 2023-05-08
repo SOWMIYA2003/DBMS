@@ -198,4 +198,3 @@ db.users.find().pretty()
 ```
 ![d1](https://user-images.githubusercontent.com/93427443/236756951-700f11fc-c0e9-4169-aa74-a167fb83cde0.png)
 ![d3](https://user-images.githubusercontent.com/93427443/236757072-f7c7022c-9624-4e02-b551-be004e546897.png)
-

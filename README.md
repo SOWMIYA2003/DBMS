@@ -179,13 +179,12 @@ input[type=submit] {
 </html>
 ```
 ![d2](https://user-images.githubusercontent.com/93427443/236757060-b485c0d3-d646-40fa-9936-2fe11eb74769.png)
-![d3](https://user-images.githubusercontent.com/93427443/236757072-f7c7022c-9624-4e02-b551-be004e546897.png)
-
 ### Commands
 #### GIT BASH TERMINAL
 ```
 mongod
 ```
+![d4](https://user-images.githubusercontent.com/93427443/236757635-1c692d74-3138-45b2-b1d2-512f1d966931.png)
 #### OPEN ANOTHER GIT BASH TERMINAL
 ```
 mongo
@@ -194,5 +193,6 @@ use mydb
 db.users.find().pretty()
 ```
 ![d1](https://user-images.githubusercontent.com/93427443/236756951-700f11fc-c0e9-4169-aa74-a167fb83cde0.png)
+![d3](https://user-images.githubusercontent.com/93427443/236757072-f7c7022c-9624-4e02-b551-be004e546897.png)
 
 

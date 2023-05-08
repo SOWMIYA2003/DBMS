@@ -178,6 +178,10 @@ input[type=submit] {
 
 </html>
 ```
+#### Ternimal - Bash
+```
+nodemon index.js
+```
 ![d2](https://user-images.githubusercontent.com/93427443/236757060-b485c0d3-d646-40fa-9936-2fe11eb74769.png)
 ### Commands
 #### GIT BASH TERMINAL

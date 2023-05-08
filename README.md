@@ -1,4 +1,18 @@
 # DBMS
+In file Index.js
+Sample code to check the server-port connectivity
+```
+var express = require("express")
+var bodyParser=require("body-parser")
+var mongoose = require("mongoose")
+
+const app = express()
+app.get("/",(req,res)=>{
+    res.send("Hello From Server")
+}).listen(3000);
+console.log("Listening on Port 3000");
+```
+Open Browser and type localhost:3000
 
 ## index.js 
 ```
